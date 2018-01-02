@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D40000</color>
+    <color name="colorPrimaryDark">#B40202</color>
+    <color name="colorAccent">#E5A815</color>
+    <color name="colorWhite">#fff</color>
+    <color name="colorGreenSea">#16a085</color>
+    <color name="colorNephritis">#27ae60</color>
+    <color name="colorBelizeHole">#2980b9</color>
+    <color name="colorWisteria">#8e44ad</color>
+    <color name="colorMidnightBlue">#2c3e50</color>
+    <color name="colorOrange">#f39c12</color>
+    <color name="colorPumpkin">#d35400</color>
+    <color name="colorPomegranate">#c0392b</color>
+    
+    <integer-array name="flatColors">
+        <item>@color/colorGreenSea</item>
+        <item>@color/colorNephritis</item>
+        <item>@color/colorBelizeHole</item>
+        <item>@color/colorWisteria</item>
+        <item>@color/colorMidnightBlue</item>
+        <item>@color/colorOrange</item>
+        <item>@color/colorPumpkin</item>
+        <item>@color/colorPomegranate</item>
+    </integer-array>
+</resources>

@@ -1,0 +1,42 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="ExoMediaButton.Lock" parent="ExoMediaButton.Play">
+        <item name="android:src">@drawable/ic_lock</item>
+    </style>
+    <style name="ExoMediaButton.Unlock" parent="ExoMediaButton.Play">
+        <item name="android:src">@drawable/ic_unlock</item>
+    </style>
+    <style name="ExoMediaButton.RotateScreen" parent="ExoMediaButton.Play">
+        <item name="android:src">@drawable/ic_rotate_screen</item>
+    </style>
+    <style name="ExoMediaButton.Favorite" parent="ExoMediaButton.Play">
+        <item name="android:src">@drawable/ic_favorite</item>
+    </style>
+    <style name="ExoMediaButton.UnFavorite" parent="ExoMediaButton.Play">
+        <item name="android:src">@drawable/ic_favorite_red</item>
+    </style>
+    <style name="ExoMediaButton.FullScreen" parent="ExoMediaButton.Play">
+        <item name="android:src">@drawable/ic_fullscreen_expand</item>
+    </style>
+    <style name="ExoMediaButton.FitScreen" parent="ExoMediaButton.Play">
+        <item name="android:src">@drawable/ic_fullscreen_shrink</item>
+    </style>
+
+</resources>

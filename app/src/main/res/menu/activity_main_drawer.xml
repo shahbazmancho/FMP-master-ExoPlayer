@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_recent"
+            android:icon="@drawable/ic_recent_dark"
+            android:title="Recent" />
+        <item
+            android:id="@+id/nav_history"
+            android:icon="@drawable/ic_history_dark"
+            android:title="History" />
+        <item
+            android:id="@+id/nav_favorite"
+            android:icon="@drawable/ic_favorite_dark"
+            android:title="Favorites" />
+        <item
+            android:id="@+id/nav_invite"
+            android:icon="@drawable/ic_invite_dark"
+            android:title="Invite Friends" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_rate_us"
+                android:icon="@drawable/ic_star_dark"
+                android:title="Rate Us" />
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_info_dark"
+                android:title="About" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Users\ShaBax\Documents\AndroidStudio\FMP-master old\FMP-master\FMP.iml" filepath="C:\Users\ShaBax\Documents\AndroidStudio\FMP-master old\FMP-master\FMP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FMP-master.iml" filepath="$PROJECT_DIR$/FMP-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
